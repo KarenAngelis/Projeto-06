@@ -219,8 +219,3 @@ h2{
     font-weight: 400;
     line-height: 26px;
   }
-
-  input:invalid {
-    border-color: #FF0000; /* Cor da borda do campo inválido */
-   
-  }
